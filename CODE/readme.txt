@@ -31,6 +31,3 @@ selenium==4.1.0
 tqdm==4.62.3
 
 Per utilizzare il codice di questo progetto è anche necessario avere installato ChromeDriver sul proprio PC.
-
-
-Potete trovare anche un Database di esempio creato da noi durante lo svolgimento del progetto.
